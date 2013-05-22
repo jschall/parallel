@@ -1,0 +1,15 @@
+{
+    "name": "paralleljs",
+    "version": "0.3.0",
+    "author": "Jonathan Challinger <mr.challinger@gmail.com>",
+    "description": "simple parallel async helper",
+    "main": "./lib/parallel",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/jschall/paralleljs.git"
+    },
+    "license":"GPLv3",
+    "engines": {
+        "node":">=0.6"
+    }
+}

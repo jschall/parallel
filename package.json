@@ -1,6 +1,6 @@
 {
-    "name": "paralleljs",
-    "version": "0.3.0",
+    "name": "parallel",
+    "version": "0.1.0",
     "author": "Jonathan Challinger <mr.challinger@gmail.com>",
     "description": "simple parallel async helper",
     "main": "./lib/parallel",
